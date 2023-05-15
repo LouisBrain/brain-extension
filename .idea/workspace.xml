@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad620f31-ef48-4167-950d-987cc79ac55c" name="Changes" comment="init 1">
+    <list default="true" id="ad620f31-ef48-4167-950d-987cc79ac55c" name="Changes" comment="Routing working">
+      <change afterPath="$PROJECT_DIR$/src/assets/brainGif.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/DetailsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/DetailsPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +53,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;/Users/louislallier/.npm-global/lib/node_modules/yarn/bin/yarn&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/louislallier/.config/yarn/global/node_modules/prettier&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/louislallier/WebstormProjects/brain-extension/node_modules/prettier&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -58,10 +63,10 @@
       <recent name="$PROJECT_DIR$/public/videos" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr" />
       <recent name="$PROJECT_DIR$/src/pages" />
       <recent name="$PROJECT_DIR$/src/assets/brain_gif_reflex/en" />
-      <recent name="$PROJECT_DIR$/src/assets" />
     </key>
   </component>
   <component name="RunManager">
@@ -95,7 +100,8 @@
       <workItem from="1684135976600" duration="7499000" />
       <workItem from="1684145501272" duration="3659000" />
       <workItem from="1684149200411" duration="1964000" />
-      <workItem from="1684152926677" duration="1541000" />
+      <workItem from="1684152926677" duration="5415000" />
+      <workItem from="1684161050096" duration="6441000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1684147929820</created>
@@ -125,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684153768878</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Routing working">
+      <created>1684154522722</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684154522722</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +170,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="init 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="init 1" />
+    <MESSAGE value="Routing working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Routing working" />
   </component>
 </project>
