@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad620f31-ef48-4167-950d-987cc79ac55c" name="Changes" comment="init 1">
+      <change afterPath="$PROJECT_DIR$/public/videos/brainbg.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/01e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/02e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/03e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/04e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/05e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/06e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/07e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/08e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/09e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/10e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/11e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/12e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/13e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/14e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/15e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/16e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/17e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/18e.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/01.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/03.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/04.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/05.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/06.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/07.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/08.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/09.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/DetailsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PbpAE8J2R6NxduUwTfggoB5Gil" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.12.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.16.9&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/louislallier/WebstormProjects/brain-extension/public/videos&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;/Users/louislallier/.npm-global/lib/node_modules/yarn/bin/yarn&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/louislallier/.config/yarn/global/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/videos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/assets/brain_gif_reflex/en" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad620f31-ef48-4167-950d-987cc79ac55c" name="Changes" comment="" />
+      <created>1683735489742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683735489742</updated>
+      <workItem from="1683735492494" duration="2470000" />
+      <workItem from="1683797695791" duration="4957000" />
+      <workItem from="1683890763660" duration="154000" />
+      <workItem from="1684135976600" duration="7499000" />
+      <workItem from="1684145501272" duration="3659000" />
+      <workItem from="1684149200411" duration="1964000" />
+      <workItem from="1684152926677" duration="503000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1684147929820</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684147929820</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init 1">
+      <created>1684148045705</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684148045705</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="init 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="init 1" />
+  </component>
+</project>
