@@ -4,48 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad620f31-ef48-4167-950d-987cc79ac55c" name="Changes" comment="init 1">
-      <change afterPath="$PROJECT_DIR$/public/videos/brainbg.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/01e.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/02e.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/03e.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/04e.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/05e.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/06e.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/07e.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/08e.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/09e.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/10e.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/11e.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/12e.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/13e.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/14e.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/15e.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/16e.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/17e.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/18e.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/01.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/02.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/03.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/04.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/05.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/06.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/07.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/08.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/09.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/11.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/12.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/13.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/14.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/15.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/17.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/18.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/DetailsPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="ad620f31-ef48-4167-950d-987cc79ac55c" name="Changes" comment="init 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,7 +92,7 @@
       <workItem from="1684135976600" duration="7499000" />
       <workItem from="1684145501272" duration="3659000" />
       <workItem from="1684149200411" duration="1964000" />
-      <workItem from="1684152926677" duration="503000" />
+      <workItem from="1684152926677" duration="828000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1684147929820</created>
@@ -149,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684148045705</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init 1">
+      <created>1684153747734</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684153747734</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
