@@ -1,0 +1,8 @@
+.ball {
+    position: fixed;
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    pointer-events: none;
+}

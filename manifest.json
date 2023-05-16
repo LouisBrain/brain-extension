@@ -1,0 +1,13 @@
+{
+  "manifest_version": 1,
+  "name": "BrainSecurity Extension",
+  "version": "1.0",
+  "description": "Les cyber-reflexes",
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_icon": "logo_brain.png"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}

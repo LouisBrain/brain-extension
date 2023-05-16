@@ -4,14 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad620f31-ef48-4167-950d-987cc79ac55c" name="Changes" comment="Routing working">
-      <change afterPath="$PROJECT_DIR$/src/assets/brainGif.gif" afterDir="false" />
+    <list default="true" id="ad620f31-ef48-4167-950d-987cc79ac55c" name="Changes" comment="data for language rdy">
+      <change afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo_brain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mouseTracker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/DetailsPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/DetailsPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brainGif.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/01e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/02e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/03e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/04e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/05e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/06e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/07e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/08e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/09e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/10e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/11e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/12e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/13e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/14e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/15e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/16e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/17e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/en/18e.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/03.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/04.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/05.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/06.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/07.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/08.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/09.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/10.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/11.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/12.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/13.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/14.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/15.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/16.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/17.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr/18.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/DetailsPage.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +64,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -39,34 +82,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.12.1&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.16.9&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/louislallier/WebstormProjects/brain-extension/public/videos&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;/Users/louislallier/.npm-global/lib/node_modules/yarn/bin/yarn&quot;,
-    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/louislallier/WebstormProjects/brain-extension/node_modules/prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "18.12.1",
+    "javascript.nodejs.core.library.typings.version": "18.16.9",
+    "last_opened_file_path": "/Users/louislallier/WebstormProjects/brain-extension/public/videos",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "/Users/louislallier/.npm-global/lib/node_modules/yarn/bin/yarn",
+    "prettierjs.PrettierConfiguration.Package": "/Users/louislallier/WebstormProjects/brain-extension/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/videos" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/src/assets/brain_gif_reflex/fr" />
-      <recent name="$PROJECT_DIR$/src/pages" />
-      <recent name="$PROJECT_DIR$/src/assets/brain_gif_reflex/en" />
     </key>
   </component>
   <component name="RunManager">
@@ -101,7 +146,7 @@
       <workItem from="1684145501272" duration="3659000" />
       <workItem from="1684149200411" duration="1964000" />
       <workItem from="1684152926677" duration="5415000" />
-      <workItem from="1684161050096" duration="6441000" />
+      <workItem from="1684161050096" duration="22527000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1684147929820</created>
@@ -138,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684154522722</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="data for language rdy">
+      <created>1684171546237</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684171546237</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +223,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="init 1" />
     <MESSAGE value="Routing working" />
-    <option name="LAST_COMMIT_MESSAGE" value="Routing working" />
+    <MESSAGE value="data for language rdy" />
+    <option name="LAST_COMMIT_MESSAGE" value="data for language rdy" />
   </component>
 </project>
